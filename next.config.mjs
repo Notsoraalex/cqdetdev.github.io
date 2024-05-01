@@ -10,7 +10,7 @@ const nextConfig = {
         ],
     },
     output: "export",
-    basePath: "/nextjs-github-pages",
+    basePath: "/cqdetdev.github.io",
     images: {
         unoptimized: true,
     },
