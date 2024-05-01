@@ -10,7 +10,6 @@ const nextConfig = {
         ],
     },
     output: "export",
-    basePath: "/cqdetdev.github.io",
     images: {
         unoptimized: true,
     },
