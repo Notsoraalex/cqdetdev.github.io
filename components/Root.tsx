@@ -84,8 +84,7 @@ const Root: React.FC = () => {
                             <p className="text-lg text-gray-400 mt-2">
                                 <TypeAnimation
                                     sequence={[
-                                        `Backend/Web Developer | Passionate about all
-                                    things not front-end`,
+                                        `Backend/Web Developer | Passionate about all things not front-end`,
                                     ]}
                                     wrapper="p"
                                     speed={75}
